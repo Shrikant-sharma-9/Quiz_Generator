@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Generator AI",
+  "description": "Upload a PDF chapter and this application will use AI to generate multiple-choice and true/false questions with answer keys, presented in a simple web form for teachers to review and export.",
+  "requestFramePermissions": []
+}
